@@ -3,6 +3,7 @@ pandas
 Flask
 seaborn
 matplotlib
+sklearn
 
 #build and install setup.py
 -e .
